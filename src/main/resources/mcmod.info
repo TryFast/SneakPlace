@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sneakplace",
+  "name": "SneakPlace Mod",
+  "description": "Places a block underneath while holding SHIFT",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tryfastv16"],
+  "credits": "ME",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
